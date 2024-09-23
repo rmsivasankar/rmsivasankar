@@ -7,7 +7,6 @@ I'm a passionate React developer who loves building web applications and explori
 ## About Me
 
 - 🌱 I’m currently learning Next.js and TypeScript
-- 🎓 Preparing for the CompTIA Network+ N10-009 exam
 - 👨‍💻 All of my projects are available at [My Portfolio](https://techsploit.tech)
 - 💬 Ask me about React, JavaScript, and web development
 - 📫 How to reach me: [jobsforsivasankarrm@gmail.com](mailto:jobsforsivasankarrm@gmail.com)

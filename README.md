@@ -65,22 +65,22 @@ Feel free to reach out to me for **collaborations**, **open-source contributions
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmsivasankar&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsivasankar&layout=compact&langs_count=8&theme=radical)
 
 ---
 
 ## 🏆 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmsivasankar&theme=radical)
 
 ---
 
 ## 🏅 My Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true)
+![Achievements](https://github-profile-trophy.vercel.app/?username=rmsivasankar&theme=radical&no-frame=true)
 
 ---
 

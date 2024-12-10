@@ -1,38 +1,87 @@
-# Hi there, I'm R M Sivasankar 👋
-
-![React Developer](https://img.shields.io/badge/React-Developer-blue)
-
-I'm a passionate React developer who loves building web applications and exploring new technologies. 
+# Hi there! I'm R M SIVASANKAR 👋
 
 ## About Me
 
-- 🌱 I’m currently learning Next.js and TypeScript
-- 👨‍💻 All of my projects are available at [My Portfolio](https://techsploit.tech)
-- 💬 Ask me about React, JavaScript, and web development
-- 📫 How to reach me: [jobsforsivasankarrm@gmail.com](mailto:jobsforsivasankarrm@gmail.com)
-- ⚡ Fun fact: I love coding challenges and hackathons
+I'm a passionate **Next.js Frontend Developer** and **Cloud Security Engineer** who loves building **web applications** and exploring **new technologies**. I specialize in creating scalable, secure, and high-performance solutions. With expertise in both frontend development and cloud security, I strive to craft applications that are **secure**, **efficient**, and **innovative**.
 
-## 🛠️ Technologies & Tools
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
+## 🚀 Technologies I Know
 
-## 🔥 GitHub Stats
+### **Frontend Development:**
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js**: Building fast, SEO-friendly web apps using SSR & SSG.
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**: Type-safe, maintainable JavaScript for large-scale applications.
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**: Core programming language for web development.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rmsivasankar&show_icons=true&theme=radical)
+### **Backend & Databases:**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL**: Relational database management system for secure, high-performance applications.
+- ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) **Prisma ORM**: Modern ORM for Node.js and TypeScript that simplifies database access.
 
-## 📈 Top Languages
+### **Cloud & Infrastructure:**
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **AWS**: Scalable cloud infrastructure and services.
+- ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) **Azure**: Cloud development and deployments.
+- ![RHEL 9](https://img.shields.io/badge/RHEL_9-EE0000?style=flat-square&logo=redhat&logoColor=white) **RHEL 9**: Red Hat Enterprise Linux for cloud infrastructure management.
+- ![SHDCN](https://img.shields.io/badge/SHDCN-1B2F3A?style=flat-square&logo=cloud&logoColor=white) **SHDCN**: Secure Hybrid Data Center Networks for hybrid cloud architectures.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsivasankar&layout=compact&theme=radical)
+### **Version Control & CI/CD:**
+- ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) **GitLab**: Version control, CI/CD pipelines, and collaboration for DevOps.
 
-## 📫 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/r-m-sivasankar-419072217)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=web&logoColor=white)](https://techsploit.tech/)
+## 💼 What I Do
 
+- **Frontend Development**: I create **dynamic**, **responsive**, and **accessible** web apps using **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- **Cloud Security Engineering**: I work on securing cloud infrastructures and applications, ensuring they're both **safe** and **scalable**.
+- **Optimizing Web App Performance**: Ensuring fast load times and high-performance web applications with **best practices** in design and code efficiency.
 
+---
+
+## 🛠️ Tools & Technologies
+
+- **Frontend**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend**: ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- **Cloud**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+- **Version Control & CI/CD**: ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+## 📬 Let's Connect!
+
+- **LinkedIn**: [yourprofile](https://linkedin.com/in/rmsivasankar)
+- **Email**: [youremail@example.com](mailto:rmsivasankar@protonmail.com)
+
+Feel free to reach out to me for **collaborations**, **open-source contributions**, or just to chat about **tech**!
+
+---
+
+## 🔥 Fun Facts
+
+- When I'm not coding, you can find me reading about **cloud security** trends or experimenting with new frameworks.
+- I love working with **serverless** architectures and **cloud-native solutions**.
+- I'm a big advocate for **performance** and **security-first** development practices.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical)
+
+---
+
+## 🏆 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+## 🏅 My Achievements
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true)
+
+---
+
+Thanks for visiting my profile! 🚀

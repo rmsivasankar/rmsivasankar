@@ -48,8 +48,8 @@ I'm a passionate **Next.js Frontend Developer** and **Cloud Security Engineer** 
 
 ## 📬 Let's Connect!
 
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/rmsivasankar)
-- **Email**: [youremail@example.com](mailto:rmsivasankar@protonmail.com)
+- **LinkedIn**: [linkedin.com/in/rmsivasankar](https://linkedin.com/in/rmsivasankar)
+- **Email**: [rmsivasankar@protonmail.com](mailto:rmsivasankar@protonmail.com)
 
 Feel free to reach out to me for **collaborations**, **open-source contributions**, or just to chat about **tech**!
 

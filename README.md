@@ -24,9 +24,6 @@ I'm a passionate **Next.js Frontend Developer** and **Cloud Security Engineer** 
 - ![RHEL 9](https://img.shields.io/badge/RHEL_9-EE0000?style=flat-square&logo=redhat&logoColor=white) **RHEL 9**: Red Hat Enterprise Linux for cloud infrastructure management.
 - ![SHDCN](https://img.shields.io/badge/SHDCN-1B2F3A?style=flat-square&logo=cloud&logoColor=white) **SHDCN**: Secure Hybrid Data Center Networks for hybrid cloud architectures.
 
-### **Version Control & CI/CD:**
-- ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) **GitLab**: Version control, CI/CD pipelines, and collaboration for DevOps.
-
 ---
 
 ## 💼 What I Do

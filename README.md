@@ -40,7 +40,7 @@ Created a **hybrid cloud architecture** using **AWS** and **Azure** for seamless
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmsivasankar&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs" alt="GitHub Stats" width="100px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmsivasankar&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs" alt="GitHub Stats" width="300px" />
 </div>
 
 ---
@@ -48,7 +48,7 @@ Created a **hybrid cloud architecture** using **AWS** and **Azure** for seamless
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rmsivasankar&theme=radical&no-frame=true&margin-w=15&column=3" alt="GitHub Achievements" width="50px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rmsivasankar&theme=radical&no-frame=true&margin-w=15&column=3" alt="GitHub Achievements" width="250px" />
 </div>
 
 ---

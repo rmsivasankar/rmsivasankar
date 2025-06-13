@@ -2,8 +2,8 @@
 
 🔐 **Security Engineer** | 🧠 Cybersecurity Enthusiast | ⚙️ DevSecOps Advocate
 
-- 🚨 Threat Detection | SIEM | Cloud Security
-- 🧰 Tools: Burp Suite, Splunk, Wireshark, Metasploit, AWS, Azure
+- 🚨 Product Security | SOC
+- 🧰 Tools: Burp Suite, Splunk, Wireshark, Metasploit, Azure
 - 💻 Python | Bash | PowerShell
 - 📫 admin@rmsivasankar.tech
 

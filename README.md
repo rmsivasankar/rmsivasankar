@@ -1,6 +1,6 @@
 # 🛡️ R M Sivasankar
 
-🔐 **Security Engineer** | 🧠 Cybersecurity Enthusiast | ⚙️ DevSecOps Advocate
+🔐 **Product Security Engineer** | ⚙️ DevSecOps Advocate
 
 - 🚨 Product Security | SOC
 - 🧰 Tools: Burp Suite, Splunk, Wireshark, Metasploit, Azure
